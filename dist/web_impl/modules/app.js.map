@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["../../../src/web_impl/modules/app.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,uBAAuB,EAAE,MAAM,aAAa,CAAC;AAEtD,MAAM,CAAC,KAAK,UAAU,aAAa,CAAC,CAAS;IACzC,MAAM,OAAO,GAAG;QACZ,WAAW,EAAE,KAAK;QAClB,WAAW,EAAE,CAAC;KACjB,CAAA;IAED,uBAAuB,CAAC,CAAC,EAAE,IAAI,CAAC,SAAS,CAAC,OAAO,CAAC,CAAC,CAAC;AACxD,CAAC"}
